@@ -1,6 +1,6 @@
 ---
 title: "Steak Mexicaine"
-category: "recipes"
+category: "Recipes"
 date: "06-20-2025"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-category: "coding"
+category: "Journals"
 date: "06-20-2025"
 ---
 
